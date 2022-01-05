@@ -1,5 +1,3 @@
-# photographer server-website-side-orun-sunny
-
 Currently, here i am used React, firebase, react router, node, express, mongodb etc.
 
 Live Site Link:
